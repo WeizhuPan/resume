@@ -1,7 +1,115 @@
 ---
-title: "resume"
+title: "Weizhu Pan"
 ---
 
-This is a Quarto website.
++86 13608050791 | panweizhu_bnu@163.com | Beijing, China
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
+
+### Beijing Normal University (BNU)
+Beijing, China | 09/2021-06/2025 (Expected)
+
+Bachelor of Science in Psychology
+
+- Overall GPA: 3.8/4.0
+- Honors: 1st Merit-based Scholarship (2024), 3rd Jing Shi Scholarship (2023), 2nd Jing Shi Scholarship (2022), 1st Merit-based Scholarship (2022)
+
+### Ghent University (Exchange Program)
+Ghent, Belgium | 09/2024-01/2025 (Expected)
+
+- Relevant Coursework: Consumer Research and Psychology, Psychological Foundations of Marketing Strategies, Introduction to Psycholinguistics
+
+## Publication
+
+Pan, W., et al. (2024, June). Navigating the Generation Z Wave: Transforming Digital Assistants into Dream Companions with a Touch of Luxury, Hedonism, and Excitement. In International Conference on Human-Computer Interaction (pp. 181-192). Cham: Springer Nature Switzerland.
+
+## Research
+
+### Beijing Key Laboratory of Applied Experimental Psychology, National Demonstration Center for Experimental Psychology Education, BNU
+09-12/2023 | Research Assistant | Advisor: Prof. Wei Liu
+
+#### Transforming Digital Assistants into Dream Companions with a Touch of Luxury, Hedonism, and Excitement
+
+- Conducted a competitive analysis by comparing Porsche's in-car digital assistant with those from XPeng Motors and NIO, and performed a heuristic evaluation of Porsche's existing intelligent assistant, Blue Hole, identifying its strengths and areas for enhancement
+- Developed target personas, summarizing six interaction qualities valued by the wealthy second generation of Generation Z, including instant, enjoyable, collaborative, expressive, novelty-seeking, and self-pleasing
+- Designed and created low-fidelity cardboard prototypes
+- Conducted two rounds of user testing (25 participants) with a simplified UEQ-S scale (8 questions, 7-point rating system) and a UEQ scale (26 questions, 7-point rating system) to evaluate user satisfaction and usability
+- Coordinated three expert reviews to evaluate the operability and suitability of design concepts
+- Iteratively refined digital assistant prototypes based on feedback from user testing and expert reviews, integrating user needs and psychological insights, and exploring multimodal interaction design like voice, gestures, and touch to provide developmental recommendations for vehicle DA technology
+
+### Occupational Health Psychology Lab, BNU
+05/2023-05/2024 | Research Assistant | Advisor: Prof. Xichao Zhang
+
+#### Research on the Dual-Path Effects of Overtime Work on Employees' Well-being and Organizations
+
+- Designed a study to explore the relationship between overtime work, employee engagement, and well-being, proposing four hypotheses
+- Conducted reliability and validity analysis on selected questionnaires using SPSS and Mplus, and analyzed data to validate the hypotheses
+- Tested different hypotheses across multiple research phases, discussing the relationship between organizational identification, work engagement, well-being, and overtime work, using SPSS for mediation and moderation analysis
+- Addressed previous study limitations by manipulating working hours in the third phase, further validating and strengthening the results, and exploring the impact of work status on organizational identification and well-being
+
+## Internship
+
+### Chengdu Olymvax Biopharmaceuticals Inc.
+Chengdu, China | 07-09/2024 | Human Resources Intern | Human Resources Department | Working Hours: 40 hrs/wk
+
+- Drafted and presented meeting minutes and task assignments
+- Assisted in optimizing recruitment processes and developing a structured interview system
+- Facilitated the training session by engaging in discussions on salary allocation, identifying areas for improvement in discussion depth and recommending shorter content with increased discussion time for supervisors
+- Delivered training on statistics to the HR team, covering standard deviation, correlation, F-distribution, and sampling, and demonstrated the application of SPSS for variance analysis
+
+### Beijing EAPs Consulting Inc.
+Chengdu, China | 08-11/2023 | Assessment Assistant | Assessment Department | Working Hours: 40 hrs/wk
+
+- Developed a psychological health questionnaire for Chinese employees based on over 1,000 survey responses, focusing on integrating cultural perspectives such as Confucian and overwork cultures, and refining variables through expert consultations
+- Built models and analyzed data to support the assessment of employee mental health, managing the balance of variables and questionnaire length to ensure robust data outcomes
+- Conducted a literature review of over 50 articles to enhance content for WeChat articles, integrating findings into informative content for the company's audience
+
+## Selected Academic Highlight
+
+### Clinical Observations and Case Analysis at Beijing Huilongguan Hospital
+12/2023 | Observer and Analyst | Advisor: Prof. Zhuo Han
+
+#### Schizophrenia
+
+- Engaged in therapeutic dialogues with patients diagnosed with schizophrenia to understand their symptoms, medical history, and current treatment plans
+- Compiled clinical case notes for a 73-year-old male with delusions, persecutory delusion, and disorganized thinking, and a 41-year-old male with social withdrawal, depressive symptoms, and occasional paranoid ideation
+- Conducted diagnostic assessments using DSM-5 criteria, identifying features like delusional ideation and cognitive disorganization
+
+#### Emotional Disorders
+
+- Facilitated discussions with patients experiencing severe depressive episodes and mania to explore affective triggers and therapeutic interventions
+- Compiled a clinical case note of a 20-year-old male with major depressive disorder, documenting affective symptoms such as anhedonia, significant weight loss, feelings of worthlessness, suicidal ideation, etc.
+- Analyzed the mixed features of depression and irritability and evaluated self-injurious behaviors
+
+#### Mental Health
+
+- Led discussions on anxiety disorders and obsessive-compulsive disorder (OCD), focusing on clinical presentations of somatic symptom disorder
+- Compiled a clinical case note of a 12-year-old male diagnosed with somatic symptom disorder, documenting symptoms such as unexplained physical discomfort, intermittent mood disturbances, etc.
+- Differentiated between anxiety disorders, OCD, and somatic symptom disorders by utilizing differential diagnosis techniques, emphasizing the unique aspects of somatic symptom disorder
+
+### A Replication Study: Underestimating the Positive Impact of Compliments Creates a Barrier to Expressing Them
+03-06/2023 | Project Leader | Advisor: Prof. Fang Wang
+
+- Adapted the experimental design to fit the Chinese cultural context based on the original research on the impact of compliments on recipients, ensuring more effective testing of whether people underestimate the positive impact of compliments in a local environment
+- Prepared survey questionnaires with 12 questions and experimental guidelines for a field experiment at BNU, covering participants' emotional responses, givers' expectations of recipients' perceptions, relationship closeness, and the frequency of compliment exchanges
+- Randomly assigned participants as givers or receivers, instructing givers to write three specific compliments of at least eight characters, which were later read by the receivers
+- Collected and analyzed 86 survey questionnaires using SPSS to assess the impact of compliments on recipients
+- Analyzed experimental data and authored a report, finding significant differences in results that reflect cultural variations and characteristics of the participant group
+
+## Extracurricular Activity
+
+### Finnish LUMA Winter Camp Exchange Program, BNU
+01-02/2024 | Visitor
+
+- Visited the University of Helsinki's chemistry lab, Finnish LUMA Center, secondary school, Turku Planetarium, and Natural History Museum to learn about Finland's scientific education and natural science collections
+- Explored inclusive, student-centered teaching practices through special education lectures, 21st-century skills discussions, and classroom observations
+
+### 2022 Online Summer Teaching Support, BNU
+07/2022 | Psychology Teacher
+
+- Designed and delivered courses and activities focusing on psychology-related topics to help students at Wenchuan Middle School develop proper values and gain practical psychological knowledge
+
+## Additional Information
+
+- Computer Skills: SPSS (3 yrs), MATLAB (2 yrs), C
+- Hobbies: Chinese Painting (The National Second Prize)
